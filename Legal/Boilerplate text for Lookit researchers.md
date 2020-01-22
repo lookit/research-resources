@@ -62,7 +62,7 @@ Automated emails on the Lookit system are mediated via SendGrid, a cloud-based S
  
 *If applicable: We may share video and other session data on Databrary for sessions where parents opt to allow this usage, subject to approval of the appropriate IRB. Databrary is a secure library developed to allow sharing and reuse of video data from developmental research. From the Databrary mission statement:
  
-'Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. Enabling reuse of video data is essential to increasing openness, maximizing the efficiency of limited resources, and accelerating the pace of discovery in the developmental and learning sciences.'
+>>'Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. Enabling reuse of video data is essential to increasing openness, maximizing the efficiency of limited resources, and accelerating the pace of discovery in the developmental and learning sciences.'
  
 In order to gain access to the data in the Databrary archive, investigators must be eligible to conduct independent research at their own institution, have human subjects certification, and agree to treat Databrary data with the same high standard of care that they treat data collected in their own lab. Please see the Databrary Access Agreement at https://databrary.org/access/policies/agreement.html for details.*
 
@@ -72,22 +72,22 @@ Data will be kept indefinitely [on your particular storage solution]. Data will 
 
 ## Can data acquired in the study affect a subject's relationship with other individuals (e.g. employee-supervisor, patient Ñ physician, student-teacher, family relationships)?
 
-There is no foreseeable risk that data collected in this study will affect participants' family, school, or other relationships. [Obviously change if this might not be true!]
+There is no foreseeable risk that data collected in this study will affect participants' family, school, or other relationships. *[Obviously change if this might not be true!]*
 
 ## Subject compensation
 
 *This is really up to you, but here are your options and notes about each:*
 
-As applicable: we will pay participants in Lookit points / email gift certificates / mail physical items. 
+We will pay participants in Lookit points / email gift certificates / mail physical items. 
 
 If mailing: Participants are never required to provide a mailing address to participate, and the mailing address is used solely for sending such awards; it may not be used for other communication. 
 
 If using Lookit points: These points are always redeemable on the Lookit site for gift certificates at a posted rate, and may also be redeemed for other items (e.g., books, toys, baby gear), via a 'store' administered by the Lookit project. 
 
 *Some notes on restrictions:
-Compensation may be limited to one session per child within a given timeframe and may depend on the family successfully submitting at least a valid consent video and on there being a child of approximately the expected age visible. Compensation may depend on the parent's behavior but may not depend on the child's behavior or performance, even if the child's behavior makes the data unusable (e.g., points may not depend on 'correct' answers given by a child or whether an infant fusses during a study). For longitudinal studies, compensation may be allocated unevenly across sessions to reflect the greater value of data collected later in the study and the greater commitment required by parents to return for a follow-up. 
+Compensation may be limited to one session per child within a given timeframe and may depend on the family successfully submitting at least a valid consent video and on there being a child of approximately the expected age visible. Compensation may depend on the parent's behavior but may not depend on the child's behavior or performance, even if the child's behavior makes the data unusable (e.g., points may not depend on 'correct' answers given by a child or whether an infant fusses during a study). For longitudinal studies, compensation may be allocated unevenly across sessions to reflect the greater value of data collected later in the study and the greater commitment required by parents to return for a follow-up.*
 
-Please check with us about your planned compensation strategy! Lookit may set acceptable ranges for the monetary value of study compensation, both points and other independent compensation, as necessary to avoid coercive payment or large disparities between studies. *
+*Please check with us about your planned compensation strategy! Lookit may set acceptable ranges for the monetary value of study compensation, both points and other independent compensation, as necessary to avoid coercive payment or large disparities between studies.*
 
 Lookit itself may also choose to offer points (at MIT's expense) for study participation, for instance to balance participation across studies.
 
@@ -112,7 +112,8 @@ The parent or guardian will be able to remain in the room with the child through
 In order to ensure that parents understand and accept the potential uses of their video or audio recordings, they are able to select from three privacy levels after each study:
  
 The following text describing privacy levels is shown at the end of each study:
- 
+
+```
 Data sharing
  
 Would you like to share your video and other data from this session with authorized users of the secure data library Databrary?
@@ -129,16 +130,19 @@ Use of video clips and images
 () Publicity: Please select this option if you'd be excited about seeing your child featured on the Lookit website or in a news article about this study! Your video may be shared for publicity as well as scientific and educational purposes; it will never be used for commercial purposes. Video clips shared may be available online to the general public.
  
 Withdrawal of video data
+
 Even if something went wrong, every video is useful to us! However, if you need your video deleted (your spouse was discussing state secrets in the background, etc.), check here to completely withdraw your video data from this session from the study: []
 Only your consent video will be retained and it may only be viewed by the MIT researchers who run Lookit and the [Institution] researchers working on [Study name]. Other video will be deleted without viewing.
- 
+```
+
 Private use of video and not sharing with Databrary will be assumed in the event that technical difficulties prevent a parent from selecting from these three options at the conclusion of the study.
 
 To avoid unexpected use of participant identity across studies by Lookit researchers, we do not publish the unique identifiers used for Lookit accounts or child profiles, and do outside information about a participant [without specific IRB approval] (see 8., 'Will data be associated with personal identifiers or will it be coded?').
  
 In order to ensure that parents do not receive unwanted emails from the Lookit project, they set their own communication preferences under a 'Communication' section of the 'My account' page. Parents can select whether they would like to receive an email when a new study is available for their child(ren), whether they would like to be reminded when it's time for another session of a longitudinal study, and whether they would like to hear when results of studies they participated in are published. Parents can also select whether they can be contacted personally if we have any questions about their or their child's responses. We do not receive direct access to user email addresses; we instead send email through an experimenter interface on the Lookit site by first selecting the type of email to send, then the recipient(s). We are only able to send email to users who have chosen to receive this type of email and who have a child who has participated in at least one of our studies.
 
-What potential benefits may subjects receive from participating in the study?
+## What potential benefits may subjects receive from participating in the study?
+
 We do not expect individual children to receive any direct benefit from their involvement, although children usually enjoy participating in these studies. Parents usually enjoy learning more about cognitive development. If applicable: Parents may be given individualized information about their child's responses when practical, for instance to show the percentage of time that their infant looked at an unexpected vs. expected outcome in each of several types of events. This is analogous to the certificates often given as keepsakes of participation in lab studies. 
 
 ## Procedures
@@ -157,7 +161,7 @@ Children are always in the presence of a parent during the study; their position
  
 The participant (and/or the participant's parent or guardian, as applicable) has the option to stop the experiment at any point by pressing a key or closing the browser window. They may also choose for any reason upon completing or ending the session to withdraw their video data from the study; in this case no video beyond the consent recording will be viewed.
  
-If applicable: Because some studies are training studies, or focus on individual differences or change over time, we may run multiple sessions with the children. Families may participate in as many or as few sessions as they choose. Families may be invited by email to participate in follow-up sessions if they have set their communication preferences accordingly.
+*If applicable: Because some studies are training studies, or focus on individual differences or change over time, we may run multiple sessions with the children. Families may participate in as many or as few sessions as they choose. Families may be invited by email to participate in follow-up sessions if they have set their communication preferences accordingly.*
 
 ## Inclusion
 
