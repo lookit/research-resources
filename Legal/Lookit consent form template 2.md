@@ -29,6 +29,7 @@ No video clips will be published or shared unless you allow this when selecting 
 ## Use of data by study researchers
 
 The research group led by [PI] at [Institution] will have access to video and other data collected during this session. We will also have access to your account profile, demographic survey, and the child profile for the child who is participating, including changes you make in the future to any of this information. We may study your child's responses in connection with his or her previous responses to this or other studies run by our group, siblings' responses to this or other studies run by our group, or demographic survey responses.
+
 [Study-specific data use statement if applicable]
 
 ## Use of data by Lookit 
