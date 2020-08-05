@@ -42,6 +42,10 @@ Because this study is being run on the Lookit platform, researchers working on t
 
 The results of the research may be presented at scientific meetings or published in scientific journals. Raw data (for instance, looking times to the left and right of the screen) may be published when it cannot identify children. We never publish children's birthdates or names, and we never publish your demographic data in conjunction with your child's video.
 
+## [Any additional segments here]
+
+if `additional_segments` is provided, each element of that list will be included under its own heading here.
+
 ## Rights of research subjects
 
 [`research_rights_statement`: Statement of rights of research subjects, e.g. including IRB contact info]
