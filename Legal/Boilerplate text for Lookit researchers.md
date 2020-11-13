@@ -78,18 +78,16 @@ There is no foreseeable risk that data collected in this study will affect parti
 
 *This is really up to you, but here are your options and notes about each:*
 
-We will pay participants in Lookit points / email gift certificates / mail physical items. 
+We will pay participants by emailing gift certificates / mailing physical items / providing a downloadable XYZ / participants will not receive compensation.
 
 If mailing: Participants are never required to provide a mailing address to participate, and the mailing address is used solely for sending such awards; it may not be used for other communication. 
-
-If using Lookit points: These points are always redeemable on the Lookit site for gift certificates at a posted rate, and may also be redeemed for other items (e.g., books, toys, baby gear), via a 'store' administered by the Lookit project. 
 
 *Some notes on restrictions:
 Compensation may be limited to one session per child within a given timeframe and may depend on the family successfully submitting at least a valid consent video and on there being a child of approximately the expected age visible. Compensation may depend on the parent's behavior but may not depend on the child's behavior or performance, even if the child's behavior makes the data unusable (e.g., points may not depend on 'correct' answers given by a child or whether an infant fusses during a study). For longitudinal studies, compensation may be allocated unevenly across sessions to reflect the greater value of data collected later in the study and the greater commitment required by parents to return for a follow-up.*
 
-*Please check with us about your planned compensation strategy! Lookit may set acceptable ranges for the monetary value of study compensation, both points and other independent compensation, as necessary to avoid coercive payment or large disparities between studies.*
+*Please check with us about your planned compensation strategy if it's unusual! Lookit may set acceptable ranges for the monetary value of study compensation, both points and other independent compensation, as necessary to avoid coercive payment or large disparities between studies.*
 
-Lookit itself may also choose to offer points (at MIT's expense) for study participation, for instance to balance participation across studies.
+Lookit itself may also choose to offer compensation (at MIT's expense) for sitewide goals (e.g., for completing 3 different studies) to encourage engagement.
 
 ## Will subjects be reimbursed for travel and expenses?
 
