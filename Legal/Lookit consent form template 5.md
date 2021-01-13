@@ -3,7 +3,7 @@ The researcher running an individual study supplies the text in brackets, to be 
 
 # Consent to participate in research: [`study.name`]
 
-Researchers led by [`PIName`] at [`institution`] are running this study, "[`study.name`]," on Lookit.
+Researchers led by [`PIName`] at [`institution`] are running this study, "[`study.name`]," on Lookit. [`summary_statement`: optional overview - please leave this blank unless your IRB specifically requires something to be at the very top of the form]
 
 ## Why we are running this study
 
