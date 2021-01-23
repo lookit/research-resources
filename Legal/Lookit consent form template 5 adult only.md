@@ -1,5 +1,7 @@
 The researcher running an individual study supplies the text in brackets, to be substituted into a standard template. At the top of the form is a link to download a copy of the form. The fields starting `study.` are taken directly from the study definition, rather than being defined in the consent frame.
 
+This shows the content of template 5 if `prompt_only_adults` is set to `true` - some language is changed slightly to accommodate a single adult participant.
+
 # Consent to participate in research: [`study.name`]
 
 Researchers led by [`PIName`] at [`institution`] are running this study, "[`study.name`]," on Lookit. [`summary_statement`: optional overview - please leave this blank unless your IRB specifically requires something to be at the very top of the form]
@@ -14,7 +16,7 @@ This study takes about [`study.duration`] to complete. [`procedures`: brief desc
 
 ## Participation is voluntary [or custom `participation_header`]
 
-You and your child are free to choose whether to be in this study. If you do choose to participate, it's okay to stop at any point during the session. Please do pause or stop the session if your child becomes fussy or does not want to participate!
+You are free to choose whether to be in this study. If you do choose to participate, it's okay to stop at any point during the session.
 
 [`voluntary_participation`: Optional: any additional information about voluntary nature of participation, e.g. "There are two sessions in this study; you will be invited to complete another session next month. It is okay not to do both sessions!"]
 
@@ -29,7 +31,7 @@ compensation does not depend on finishing the whole study.]
 
 ## Data collection and webcam recording
 
-During the session, you and your child will be recorded by your computer's webcam and microphone. These webcam recordings, and other data like answers you enter in forms, are sent securely to the Lookit platform. You can view your past recordings on Lookit under "Studies" -> "Your past studies" at any time.
+During the session, you will be recorded by your computer's webcam and microphone. These webcam recordings, and other data like answers you enter in forms, are sent securely to the Lookit platform. You can view your past recordings on Lookit under "Studies" -> "Your past studies" at any time.
 
 Data are stored securely on Lookit servers and by researchers, and are only shared as described in this document. However, there is always a small risk that data transmitted over the internet may be intercepted or that the security of stored data may be compromised.
     
@@ -56,9 +58,9 @@ If you participate in this study, we (the research group led by {{PIName}} at {{
 
 * webcam recordings and other data collected during this session
 * your account profile and demographic survey
-* the child profile for the child who is participating
+* the profile for the family member who is participating
 
-This includes changes you make in the future to any of this information. We may put different types of information together to learn more about child development. For instance, if your child participates in multiple studies from our group, we may look at how his or her responses compare across studies, or we may look at whether siblings tend to respond similarly. We may also study connections between children’s responses and family demographic survey data.
+This includes changes you make in the future to any of this information. We may put different types of information together to learn more about child development. For instance, if you participate in multiple studies from our group, we may look at how your responses compare across studies, or we may look at how your responses relate to other family members'. We may also study connections between your responses and family demographic survey data.
 
 [`datause`: Optional study-specific data use statement. You may want to note what measures you will generally be coding for (looking time, parent-child interaction, etc.). If your IRB prefers, you can also note here that you are subject to the Lookit Terms of Use.]
 
@@ -68,7 +70,7 @@ The Lookit core team at MIT will also have access to the data collected during t
 
 ## Publishing the results of this study
 
-The results of this study may be presented at scientific meetings or published in scientific journals. We may publish individual responses that cannot identify children, like looking times or sequences of button presses. We never publish children’s birthdates or names. Even if you choose to share your recordings, we never publish information that would make it possible to link recordings with your demographic data.
+The results of this study may be presented at scientific meetings or published in scientific journals. We may publish individual responses that cannot identify you, like looking times or sequences of button presses. We never publish birthdates or names. Even if you choose to share your recordings, we never publish information that would make it possible to link recordings with your demographic data.
     
 ## [Any additional segments here]
 
@@ -85,11 +87,11 @@ As part of your participation, we will collect certain personal information abou
 Your personal information will be transferred to the United States. The data protection and privacy laws of the United States may not offer you the same level of protection as those in your country of origin.
 
 ## How to reach us
-This study is run by [`PIName`] at [`institution`]. If you or your child have any questions or concerns about this study, or in the very unlikely event of a research-related injury, please contact [`PIContact`]. 
+This study is run by [`PIName`] at [`institution`]. If you have any questions or concerns about this study, or in the very unlikely event of a research-related injury, please contact [`PIContact`]. 
 
-If you or your child have any questions or concerns about the Lookit platform, please contact Kim Scott at lookit@mit.edu.
+If you have any questions or concerns about the Lookit platform, please contact Kim Scott at lookit@mit.edu.
 
 ---
 
-To participate, a parent presses "Start consent recording" reads the statement below out loud (or in ASL):
-"I have read and understand the consent document. I am this child's parent or legal guardian and we both agree to participate in this study."
+To participate, a participant presses "Start consent recording" reads the statement below out loud (or in ASL):
+"I have read and understand the consent document. I agree to participate in this study."
