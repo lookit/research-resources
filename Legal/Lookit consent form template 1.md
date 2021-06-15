@@ -50,7 +50,7 @@ if `additional_segments` is provided, each element of that list will be included
 
 This study is run by [`PIName`] at [`institution`]. If you or your child have any questions or concerns about this study, or in the very unlikely event of a research-related injury, please contact [`PIContact`]. 
 
-If you or your child have any questions or concerns about the Lookit platform, please contact Kim Scott at kimscott@mit.edu or 617 324 4859.
+If you or your child have any questions or concerns about the Lookit platform, please contact Lookit staff at lookit@mit.edu or 617 324 4859.
 
 ---
 

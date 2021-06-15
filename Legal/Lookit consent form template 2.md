@@ -60,7 +60,7 @@ Your personal information will be transferred to the United States. You understa
 
 This study is run by [`PIName`] at [`institution`]. If you or your child have any questions or concerns about this study, or in the very unlikely event of a research-related injury, please contact [`PIContact`].
 
-If you or your child have any questions or concerns about the Lookit platform, please contact Kim Scott at kimscott@mit.edu or 617 324 4859.
+If you or your child have any questions or concerns about the Lookit platform, please contact Lookit staff at lookit@mit.edu or 617 324 4859.
 
 ---
 
