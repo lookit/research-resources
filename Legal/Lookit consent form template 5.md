@@ -44,6 +44,8 @@ At the end of the session, you will choose a privacy level for your webcam recor
 * "Publicity": Researchers with access to your recordings may also share them for publicity, for instance in a news segment about the research or to recruit more participants.
 
 You will also have the option to withdraw your recordings. If you do, only your consent recording will be kept and all other recordings will be deleted.
+
+[If `private_level_only` is true, the above text is replaced by the following] Researchers with access to your recordings will not share them with anyone else. At the end of the session, you will have the option to withdraw your recordings. If you do, only your consent recording will be kept and all other recordings will be deleted.
    
 [Optional paragraph, if `include_databrary` is true:] Separately, you can opt in to give access to your recordings and other data to authorized users of the secure data library Databrary. This means that other researchers besides the ones running this study will
 have access to your recordings, and may be able to use them to answer other questions about child development. Data sharing can lead to faster progress in research on human development and behavior. Authorized Databrary researchers have to agree to maintain confidentiality and not use the data for commercial purposes.  If you have any questions about this data-sharing library, visit [Databrary](https://nyu.databrary.org/) or email ethics@databrary.org.
