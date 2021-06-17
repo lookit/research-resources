@@ -29,7 +29,7 @@ compensation does not depend on finishing the whole study.]
 
 ## Data collection and webcam recording
 
-During the session, you and your child will be recorded by your computer's webcam and microphone. These webcam recordings, and other data like answers you enter in forms, are sent securely to the Lookit platform. You can view your past recordings on Lookit under "Studies" -> "Your past studies" at any time.
+During the session, you and your child will be recorded by your computer's webcam and microphone. These webcam recordings, and other data like answers you enter in forms, are sent securely to the Lookit platform. You can view your past recordings on Lookit at any time.
 
 Data are stored securely on Lookit servers and by researchers, and are only shared as described in this document. However, there is always a small risk that data transmitted over the internet may be intercepted or that the security of stored data may be compromised.
     
@@ -45,7 +45,7 @@ At the end of the session, you will choose a privacy level for your webcam recor
 
 You will also have the option to withdraw your recordings. If you do, only your consent recording will be kept and all other recordings will be deleted.
 
-[If `private_level_only` is true, the above text is replaced by the following] Researchers with access to your recordings will not share them with anyone else. At the end of the session, you will have the option to withdraw your recordings. If you do, only your consent recording will be kept and all other recordings will be deleted.
+[If `private_level_only` is true, the above text about privacy levels - starting "At the end of the session" - is replaced by the following] Researchers with access to your recordings will not share them with anyone else. At the end of the session, you will have the option to withdraw your recordings. If you do, only your consent recording will be kept and all other recordings will be deleted.
    
 [Optional paragraph, if `include_databrary` is true:] Separately, you can opt in to give access to your recordings and other data to authorized users of the secure data library Databrary. This means that other researchers besides the ones running this study will
 have access to your recordings, and may be able to use them to answer other questions about child development. Data sharing can lead to faster progress in research on human development and behavior. Authorized Databrary researchers have to agree to maintain confidentiality and not use the data for commercial purposes.  If you have any questions about this data-sharing library, visit [Databrary](https://nyu.databrary.org/) or email ethics@databrary.org.

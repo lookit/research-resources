@@ -22,7 +22,7 @@ You and your child are free to choose whether to be in this study. If you and yo
 
 ## Data collection and webcam recording
 
-During the session, you and your child will be recorded via your computer's webcam and microphone. At the end of the session, you will be prompted to choose a privacy level for your webcam recordings. You will have the option to withdraw your video data at this point. Video recordings and other data you enter are sent securely to the Lookit platform and stored indefinitely. You can view your past recordings on Lookit under "Studies" -> "Your past studies" at any time.
+During the session, you and your child will be recorded via your computer's webcam and microphone. At the end of the session, you will be prompted to choose a privacy level for your webcam recordings. You will have the option to withdraw your video data at this point. Video recordings and other data you enter are sent securely to the Lookit platform and stored indefinitely. You can view your past recordings on Lookit at any time.
 Data is stored securely on Lookit servers and by researchers. However, there is always a small risk that data transmitted over the internet may be intercepted or that the security of stored data may be compromised.
 
 No video clips will be published or shared unless you allow this when selecting a privacy level. If we do not receive a consent recording (the video you'll make to the right) for this session and cannot verify that you agreed to participate, no other video from your session will be viewed.
